@@ -6,11 +6,11 @@ layout: default
 
 * * *
 
-I will be joining the Institute for Network Sciences and Cyberspace at Tsinghua University as an Assistant Research Professor （助理研究员） in Fall 2021. Previously, I was a postdoc in the Department of Computer Science & Technology at Tsinghua University. I received my Ph.D. in Department of Computer Science & Technology at Tsinghua University. I received my B.E. in the Department of Computer Science and Engineering at HIT.
+I will be joining the Institute for Network Sciences and Cyberspace at Tsinghua University as an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) in Fall 2021. Now, I am a postdoc in the Department of Computer Science & Technology at Tsinghua University. I received my Ph.D. in Department of Computer Science & Technology at Tsinghua University. I received my B.E. in the Department of Computer Science and Engineering at HIT.
 
 My research interests include network management and measurement, transport protocols, and satellite internet.
 
-![Email:](https://github.com/TsinghuaDong/tsinghuadong.github.io/blob/main/assets/img/email-deh.png)
+**Email**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
 # Education
 
