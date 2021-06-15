@@ -8,7 +8,7 @@ layout: default
 
 I will be joining the Institute for Network Sciences and Cyberspace at Tsinghua University as an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) in Fall 2021. Now, I am a postdoc in the Department of Computer Science & Technology at Tsinghua University. I received my Ph.D. in the Department of Computer Science & Technology at Tsinghua University. I received my B.E. in the Department of Computer Science and Engineering at HIT.
 
-My research interests include network management and measurement, transport protocols, and satellite internet.
+My research interests include network management and measurement, and network transport optimization.
 
 **Email**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
@@ -77,15 +77,16 @@ My research interests include network management and measurement, transport prot
 
 * * *
 
-### Journal Reviewer
+### Journal/Magazine Reviewer
 
 - IEEE/ACM Transactions on Networking (TON)
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Network and Service Management (TNSM)
 - CCF Transactions on Networking (CTON)
+- IEEE Network
 - IEEE Communications Letters
 
-### External/Sub Reviewer
+### Conference Reviewer
 
 - IEEE International Conference on Computer Communications (INFOCOM), 2018
 - IEEE International Conference on Network Protocols (ICNP), 2017
