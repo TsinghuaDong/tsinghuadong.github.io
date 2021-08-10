@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About me
+# About Me
 
 * * *
 
@@ -82,15 +82,16 @@ My research interests include network management and measurement and network tra
 
 * * *
 
-### Journal Reviewer
+### Journal/Magazine Reviewer
 
 - IEEE/ACM Transactions on Networking (TON)
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Network and Service Management (TNSM)
 - CCF Transactions on Networking (CTON)
+- IEEE Network
 - IEEE Communications Letters
 
-### External/Sub Reviewer
+### Conference Reviewer
 
 - IEEE International Conference on Computer Communications (INFOCOM), 2018
 - IEEE International Conference on Network Protocols (ICNP), 2017
