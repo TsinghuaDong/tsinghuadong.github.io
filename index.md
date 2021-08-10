@@ -2,13 +2,13 @@
 layout: default
 ---
 
-# Bio
+# About me
 
 * * *
 
-I will be joining the Institute for Network Sciences and Cyberspace at Tsinghua University as an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) in Fall 2021. Now, I am a postdoc in the Department of Computer Science & Technology at Tsinghua University. I received my Ph.D. in the Department of Computer Science & Technology at Tsinghua University. I received my B.E. in the Department of Computer Science and Engineering at HIT.
+I am an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) at the Institute for Network Sciences and Cyberspace, Tsinghua University. I was a postdoc in the Department of Computer Science & Technology at Tsinghua University. I received my Ph.D. in the Department of Computer Science & Technology at Tsinghua University. I received my B.E. in the Department of Computer Science and Engineering at Harbin Institute of Technology.
 
-My research interests include network management and measurement, transport protocols, and satellite internet.
+My research interests include network management and measurement and network transport optimization.
 
 **Email**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
@@ -33,10 +33,15 @@ My research interests include network management and measurement, transport prot
 
 * * *
 
-- **Postdoctoral Researcher, Tsinghua University**
+- **Assistant Research Professor, Tsinghua University**
   - 2019-7 - Present
+  - Institute for Network Sciences and Cyberspace
+  - [Prof. Dr. Jiahai Yang's group](http://nmgroup.tsinghua.edu.cn/yjh/)
+
+- **Postdoctoral Researcher, Tsinghua University**
+  - 2019-7 - 2021-7
   - Department of Computer Science & Technology
-  - Cooperation Supervisor: Prof. Dr. Mingwei Xu
+  - [Prof. Dr. Mingwei Xu's group](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu)
 
 # Publications
 
