@@ -6,7 +6,7 @@ layout: default
 
 * * *
 
-I am an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) at the Institute for Network Sciences and Cyberspace, Tsinghua University. I was a postdoc in the Department of Computer Science & Technology at Tsinghua University. I received my Ph.D. in the Department of Computer Science & Technology at Tsinghua University. I received my B.E. in the Department of Computer Science and Engineering at Harbin Institute of Technology.
+I am an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) at [Prof. Jiahai Yang's group](http://nmgroup.tsinghua.edu.cn/yjh/) in the Institute for Network Sciences and Cyberspace (INSC), Tsinghua University. I was born in Hebei, China and received my bachelor (2013) degree from Harbin Institute of Technology, Harbin, China, and my Ph.D. (2019) degree from Tsinghua University, Beijing, China (supervisor: Prof. Mingwei Xu). Prior to joining the INSC, I worked with Prof. Mingwei Xu as a postdoctoral researcher at the [Routing Group](http://routing.netlab.edu.cn/) in the Department of Computer Science & Technology, Tsinghua University until July 2021. I was a visiting Ph.D. student at the University of Göttingen (host: Prof. Xiaoming Fu) between 2016 to 2017.
 
 My research interests include network management and measurement and network transport optimization.
 
@@ -20,13 +20,13 @@ My research interests include network management and measurement and network tra
   - 2013-9 to 2019-7
   - Department of Computer Science & Technology
   - Supervisor: Prof. Dr. Mingwei Xu
-- **Joint Ph.D., University of Göttingen**
+- **Visiting Ph.D., University of Göttingen**
   - 2016-9 to 2017-9
   - Institute of Computer Science
   - Supervisor: Prof. Dr. Xiaoming Fu
 - **B.E., Harbin Institute of Technology (HIT)**
   - 2009-8 to 2013-7
-  - Department of Computer Science and Engineering
+  - Department of Computer Science & Engineering
   - Overall GPA:93.43/100
 
 # Work
@@ -34,7 +34,7 @@ My research interests include network management and measurement and network tra
 * * *
 
 - **Assistant Research Professor, Tsinghua University**
-  - 2019-7 - Present
+  - 2021-7 - Present
   - Institute for Network Sciences and Cyberspace
   - [Prof. Dr. Jiahai Yang's group](http://nmgroup.tsinghua.edu.cn/yjh/)
 
