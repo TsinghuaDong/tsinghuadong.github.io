@@ -12,6 +12,8 @@ My research interests include network management, network measurement and networ
 
 **Email**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
+**To Students**: Our group is looking for Ph.D. students, Master students and undergraduate students to join us. If interested, please contact [Prof. Jiahai Yang](http://nmgroup.tsinghua.edu.cn/yjh/) or me with your resume.
+
 # Education
 
 * * *
