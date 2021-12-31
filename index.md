@@ -14,7 +14,7 @@ My research interests include network management, network measurement and networ
 
 **To Students**: Our group is looking for Ph.D. students, Master students and undergraduate students to join us. If interested, please contact [Prof. Jiahai Yang](http://nmgroup.tsinghua.edu.cn/yjh/) or me with your resume.
 
-[中文版个人主页 \| Chinese Homepage](https://tsinghuadong.github.io/cn-tsinghuadong-personal-website/)
+[Chinese Homepage](https://tsinghuadong.github.io/cn-tsinghuadong-personal-website/)
 
 # Education
 
