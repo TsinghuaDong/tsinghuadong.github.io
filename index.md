@@ -8,7 +8,7 @@ layout: default
 
 I am an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) at [Prof. Jiahai Yang's group](http://nmgroup.tsinghua.edu.cn/yjh/) in the Institute for Network Sciences and Cyberspace (INSC), Tsinghua University. I was born in Hebei, China and received my bachelor (2013) degree from Harbin Institute of Technology, Harbin, China, and my Ph.D. (2019) degree from Tsinghua University, Beijing, China (supervisor: Prof. Mingwei Xu). Prior to joining the INSC, I worked with Prof. Mingwei Xu as a postdoctoral researcher at the [Routing Group](http://routing.netlab.edu.cn/) in the Department of Computer Science & Technology, Tsinghua University until July 2021. I was a visiting Ph.D. student at the University of Göttingen (host: Prof. Xiaoming Fu) between 2016 to 2017.
 
-My research interests include network management, network measurement and network transport optimization.
+My research interests include cyberspace surveying & mapping, network management and network transport optimization.
 
 **Email**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
