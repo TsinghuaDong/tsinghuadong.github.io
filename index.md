@@ -77,10 +77,11 @@ My research interests include cyberspace surveying & mapping, network management
 
 * * *
 
-- 徐明伟；张佳；**董恩焕**；孟子立；杨芫。针对移动Web服务的自适应传输协议选择方法和装置, 2020-12-08, 中国, 202011444788.7。 （已授权，授权日：2021-12-24。）
+- **董恩焕**; 徐明伟; 杨芫; 杨家海. 针对多路径传输协议的子流共享带宽瓶颈检测方法和装置, 2022-01-24, 中国, 202210082069.8. （已申请。）
+- 徐明伟; 张佳; **董恩焕**; 孟子立; 杨芫. 针对移动Web服务的自适应传输协议选择方法和装置, 2020-12-08, 中国, 202011444788.7. （已授权，授权日：2021-12-24。）
 - Mingwei Xu, Nan Geng, Yuan Yang, and **Enhuan Dong**. Method and System for Implementing L3VPN based on Two-dimensional Routing Protocol: USA, No.17/249,432. 申请日：2021年3月2日。
-- 徐明伟; 耿男; 杨芫; **董恩焕**; 基于二维路由协议实现L3VPN的方法及系统, 2019-4-22, 中国, 201910325519.X. （已授权，授权日：2020-6-12。）
-- 徐明伟; **董恩焕**; 杨芫; 空间网络传输控制协议, 2018-8-14, 中国, 201810928192.0. （已授权，授权日：2020-7-17。）
+- 徐明伟; 耿男; 杨芫; **董恩焕**. 基于二维路由协议实现L3VPN的方法及系统, 2019-4-22, 中国, 201910325519.X. （已授权，授权日：2020-6-12。）
+- 徐明伟; **董恩焕**; 杨芫. 空间网络传输控制协议, 2018-8-14, 中国, 201810928192.0. （已授权，授权日：2020-7-17。）
 
 # Professional Activities
 
@@ -91,8 +92,9 @@ My research interests include cyberspace surveying & mapping, network management
 - IEEE/ACM Transactions on Networking (TON)
 - IEEE Journal on Selected Areas in Communications (JSAC)
 - IEEE Transactions on Network and Service Management (TNSM)
-- CCF Transactions on Networking (CTON)
+- Elsevier Computer Communications (COMCOM)
 - IEEE Network
+- CCF Transactions on Networking (CTON)
 - IEEE Communications Letters
 
 ### Conference Reviewer
