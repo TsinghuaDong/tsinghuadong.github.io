@@ -109,24 +109,22 @@ My research interests include network security, network operations and network t
 [//]: # ### Conference TPC Member
   [//]: # - [International Conference on Network of the Future] (https://nof.dnac.org/tpc/) (NoF), 2023
 
-### Journal/Magazine Reviewer
+- **Journal/Magazine Reviewer**
+  - IEEE/ACM Transactions on Networking (TON)
+  - IEEE Transactions on Parallel and Distributed Systems (TPDS)
+  - IEEE Journal on Selected Areas in Communications (JSAC)
+  - IEEE Transactions on Network and Service Management (TNSM)
+  - Elsevier Computer Communications (COMCOM)
+  - Elsevier Future Generation Computer Systems
+  - IEEE Network
+  - CCF Transactions on Networking (CTON)
+  - IEEE Communications Letters
 
-- IEEE/ACM Transactions on Networking (TON)
-- IEEE Transactions on Parallel and Distributed Systems (TPDS)
-- IEEE Journal on Selected Areas in Communications (JSAC)
-- IEEE Transactions on Network and Service Management (TNSM)
-- Elsevier Computer Communications (COMCOM)
-- Elsevier Future Generation Computer Systems
-- IEEE Network
-- CCF Transactions on Networking (CTON)
-- IEEE Communications Letters
+- **Conference Reviewer**
+  - IEEE International Conference on Computer Communications (INFOCOM), 2018
+  - IEEE International Conference on Network Protocols (ICNP), 2017
 
-### Conference Reviewer
-
-- IEEE International Conference on Computer Communications (INFOCOM), 2018
-- IEEE International Conference on Network Protocols (ICNP), 2017
-
-# Teaching
+<!-- # Teaching
 
 * * *
 
@@ -136,7 +134,7 @@ My research interests include network security, network operations and network t
   - Network Topic Training;  2013 Fall, 2014 Spring, 2015 Spring
 
 - **Teaching Assistant, University of Göttingen**
-  - Seminar on Internet Technologies; 2016 Fall, 2017 Spring
+  - Seminar on Internet Technologies; 2016 Fall, 2017 Spring -->
 
 # Useful Links
 
