@@ -17,7 +17,7 @@ My research interests include network security, network operations and network t
 
 **To Students**: Our group is looking for Ph.D. students, Master students and undergraduate students to join us. If interested, please contact [Prof. Jiahai Yang](http://nmgroup.tsinghua.edu.cn/yjh/) or me with your resume.
 
-[Chinese Homepage](https://tsinghuadong.github.io/cn-tsinghuadong-personal-website/)
+[Chinese Homepage](https://tsinghuadong.github.io/cn-tsinghuadong-personal-website/), [Google Scholar Page](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en)
 
 # Education
 
@@ -50,7 +50,7 @@ My research interests include network security, network operations and network t
   - Department of Computer Science & Technology
   - [Prof. Dr. Mingwei Xu's group](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu)
 
-# Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en))
+# Selected Publications
 
 * * *
 
@@ -87,7 +87,7 @@ My research interests include network security, network operations and network t
   - Professional Committee Member of Cyberspace Surveying and Mapping, Chinese Institute of Command and Control
 
 - **Conference TPC Member**
-  - [International Conference on Network of the Future] (https://nof.dnac.org/tpc/) (NoF), 2023
+  - [International Conference on Network of the Future](https://nof.dnac.org/tpc/) (NoF), 2023
 
 - **Journal/Magazine Reviewer**
   - IEEE/ACM Transactions on Networking (TON)
