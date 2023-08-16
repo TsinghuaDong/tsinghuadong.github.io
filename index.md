@@ -104,7 +104,7 @@ My research interests include network security, network operations and network t
   - IEEE International Conference on Computer Communications (INFOCOM), 2018
   - IEEE International Conference on Network Protocols (ICNP), 2017
 
-# Teaching
+<!-- # Teaching
 
 * * *
 
@@ -114,7 +114,7 @@ My research interests include network security, network operations and network t
   - Network Topic Training;  2013 Fall, 2014 Spring, 2015 Spring
 
 - **Teaching Assistant, University of Göttingen**
-  - Seminar on Internet Technologies; 2016 Fall, 2017 Spring
+  - Seminar on Internet Technologies; 2016 Fall, 2017 Spring -->
 
 # Useful Links
 
