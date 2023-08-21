@@ -25,6 +25,7 @@ My research interests include network security, network operations and network t
 
 - **Ph.D., Tsinghua University**
   - 2013-9 to 2019-7
+  - Major: Computer Science & Technology
   - Department of Computer Science & Technology
   - Supervisor: Prof. Dr. Mingwei Xu
 - **Visiting Ph.D., University of Göttingen**
@@ -33,7 +34,8 @@ My research interests include network security, network operations and network t
   - Supervisor: Prof. Dr. Xiaoming Fu
 - **B.E., Harbin Institute of Technology (HIT)**
   - 2009-8 to 2013-7
-  - Department of Computer Science & Engineering
+  - Major: Information Security
+  - School of Computer Science & Technology
   - Overall GPA:93.43/100
 
 # Work
