@@ -56,10 +56,10 @@ My research interests include network security, network operations and network t
 
 * * *
 
+- **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, available online.
 - Jia Zhang; Yixuan Zhang; **Enhuan Dong**; Yan Zhang; Shaorui Ren; Zili Meng; Mingwei Xu; Xiaotian Li; Zongzhi Hou; Zhicheng Yang; Xiaoming Fu; Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX Annual Technical Conference (USENIX ATC, TH-CPL A, CCF A), Boston, MA, USA, 2023-7-10 to 2023-7-12.
 - Renjie Xie; Jiahao Cao; **Enhuan Dong**; Mingwei Xu; Kun Sun; Qi Li; Licheng Shen; Menghao Zhang; Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation, USENIX Security Symposium (USENIX Security, TH-CPL A, CCF A), Anaheim, CA, USA, 2023-8-9 to 2023-8-11.
 - Jia Zhang; Shaorui Ren; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (TON, TH-CPL A, CCF A), 2023, available online.
-- Linna Fan; Lin He; **Enhuan Dong**; Jiahai Yang; Chenglong Li; Jinlei Lin; Zhiliang Wang; EvoIoT: An Evolutionary IoT and Non-IoT Classification Model in Open Environments, Elsevier Computer Networks (COMNET, TH-CPL B, CCF B), 2022, available online.
 - Jia Zhang; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, The Web Conference (WWW, TH-CPL A, CCF A), Virtual Edition, 2021-4-19 to 2021-4-23.
 - **Enhuan Dong**; Xiaoming Fu; Mingwei Xu; Yuan Yang; Low-Cost Datacenter Load Balancing with Multipath Transport and Top-of-Rack Switches, IEEE Transactions on Parallel and Distributed Systems (TPDS, TH-CPL A, CCF A), 2020, 31(10): 2232-2247.
 - Xing Li; Geoff Huston; Mingwei Xu; Yuan Yang; **Enhuan Dong**; Chongrong Li; Haiyi Zhang; Jiankang Yao; A Review of the Development of the Internet in Past Ten years (2008-2018), CCF 2018-2019 China Computer Science and Technology Development Report (in Chinese), 2019.
@@ -71,6 +71,7 @@ My research interests include network security, network operations and network t
 
 * * *
 
+- CCF Science and Technology Achievement (Technical Invention) Award, Second Prize: Key Technologies and Systems for Integrated Large-scale Cloud Network Operations with Digital Intelligence Integration (3/6), China Computer Federation, 2023.
 - Science and Technology (Technical Invention) Award of China Institute of Communications，First Prize: Key Technologies for Intelligent Operations of Large-scale Cloud Network Infrastructure (15/15), China Institute of Communications, 2022.
 - ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [Announcement Link](https://www.sigcomm.org/content/sigcomm-networking-systems-award).
 - Excellent Ph.D. Graduate in Department of CST, THU, 2019.
