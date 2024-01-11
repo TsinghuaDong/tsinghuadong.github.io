@@ -17,7 +17,7 @@ My research interests include network security, network operations and network t
 
 **To Students**: Our group is looking for Ph.D. students, Master students and undergraduate students to join us. If interested, please contact [Prof. Jiahai Yang](http://nmgroup.tsinghua.edu.cn/yjh/) or me with your resume.
 
-**About Me Pages**: [Chinese Homepage](https://tsinghuadong.github.io/cn-tsinghuadong-personal-website/), [Google Scholar Page](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en), [INSC THU Page](https://www.insc.tsinghua.edu.cn/info/1157/2447.htm)
+**About Me Pages**: [Chinese Homepage](https://tsinghuadong.github.io/cn-tsinghuadong-personal-website/), [Google Scholar Page](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en), [DBLP Page](https://dblp.org/pid/139/2623.html), [INSC THU Page](https://www.insc.tsinghua.edu.cn/info/1157/2447.htm)
 
 # Education
 
@@ -56,10 +56,11 @@ My research interests include network security, network operations and network t
 
 * * *
 
+- Xin He; **Enhuan Dong**; Jiahai Yang; Shize Zhang; Zhiliang Wang; Zejie Wang; Ye Yang; Jun Zhou; Xiaoqing Sun; Enge Song; Jianyuan Lu; Biao Lyu; Shunmin Zhu; CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks, IEEE Conference on Computer Communications (IEEE INFOCOM, TH-CPL A, CCF A), Vancouver, Canada, 2024-5-20 to 2024-5-24.
 - **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, available online.
 - Jia Zhang; Yixuan Zhang; **Enhuan Dong**; Yan Zhang; Shaorui Ren; Zili Meng; Mingwei Xu; Xiaotian Li; Zongzhi Hou; Zhicheng Yang; Xiaoming Fu; Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX Annual Technical Conference (USENIX ATC, TH-CPL A, CCF A), Boston, MA, USA, 2023-7-10 to 2023-7-12.
 - Renjie Xie; Jiahao Cao; **Enhuan Dong**; Mingwei Xu; Kun Sun; Qi Li; Licheng Shen; Menghao Zhang; Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation, USENIX Security Symposium (USENIX Security, TH-CPL A, CCF A), Anaheim, CA, USA, 2023-8-9 to 2023-8-11.
-- Jia Zhang; Shaorui Ren; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (TON, TH-CPL A, CCF A), 2023, available online.
+- Jia Zhang; Shaorui Ren; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (TON, TH-CPL A, CCF A), 2023, 31(5): 2162-2177.
 - Jia Zhang; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, The Web Conference (WWW, TH-CPL A, CCF A), Virtual Edition, 2021-4-19 to 2021-4-23.
 - **Enhuan Dong**; Xiaoming Fu; Mingwei Xu; Yuan Yang; Low-Cost Datacenter Load Balancing with Multipath Transport and Top-of-Rack Switches, IEEE Transactions on Parallel and Distributed Systems (TPDS, TH-CPL A, CCF A), 2020, 31(10): 2232-2247.
 - Xing Li; Geoff Huston; Mingwei Xu; Yuan Yang; **Enhuan Dong**; Chongrong Li; Haiyi Zhang; Jiankang Yao; A Review of the Development of the Internet in Past Ten years (2008-2018), CCF 2018-2019 China Computer Science and Technology Development Report (in Chinese), 2019.
@@ -86,11 +87,9 @@ My research interests include network security, network operations and network t
 
 * * *
 
-- **Institute Committee Member**
-  - Professional Committee Member of Cyberspace Surveying and Mapping, Chinese Institute of Command and Control
-
 - **Conference TPC Member**
-  - [International Conference on Network of the Future](https://nof.dnac.org/tpc/) (NoF), 2023
+  - [IEEE International Conference on Distributed Computing Systems (ICDCS) 2024](https://icdcs2024.icdcs.org/)
+  - [International Conference on Network of the Future (NoF) 2023](https://nof.dnac.org/tpc/)
 
 - **Journal/Magazine Reviewer**
   - IEEE/ACM Transactions on Networking (TON)
@@ -106,6 +105,10 @@ My research interests include network security, network operations and network t
 - **Conference Reviewer**
   - IEEE International Conference on Computer Communications (INFOCOM), 2018
   - IEEE International Conference on Network Protocols (ICNP), 2017
+
+- **Institute Committee Member**
+  - Technical Committee Member of Internet, China Computer Federation
+  - Technical Committee Member of Cyberspace Mapping, Chinese Institute of Command and Control
 
 # Teaching
 
