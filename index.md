@@ -88,8 +88,8 @@ My research interests include network security, network operations and network t
 * * *
 
 - **Conference TPC Member**
-  - [IEEE International Conference on Distributed Computing Systems (ICDCS) 2024](https://icdcs2024.icdcs.org/)
-  - [International Conference on Network of the Future (NoF) 2023](https://nof.dnac.org/2023/tpc/)
+  - [IEEE International Conference on Distributed Computing Systems (ICDCS), 2024](https://icdcs2024.icdcs.org/)
+  - [International Conference on Network of the Future (NoF), 2023](https://nof.dnac.org/2023/tpc/)
 
 - **Journal/Magazine Reviewer**
   - IEEE/ACM Transactions on Networking (TON)
