@@ -57,6 +57,7 @@ My research interests include network security, network operations and network t
 * * *
 
 - Xin He; **Enhuan Dong**; Jiahai Yang; Shize Zhang; Zhiliang Wang; Zejie Wang; Ye Yang; Jun Zhou; Xiaoqing Sun; Enge Song; Jianyuan Lu; Biao Lyu; Shunmin Zhu; CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks, IEEE Conference on Computer Communications (IEEE INFOCOM, TH-CPL A, CCF A), Vancouver, Canada, 2024-5-20 to 2024-5-24.
+- Jia Zhang; Haixuan Tong; **Enhuan Dong**; Xin Qian; Mingwei Xu; Xiaotian Li; Zili Meng; Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, The Web Conference (WWW, TH-CPL A, CCF A), Singapore, 2024-5-13 to 2024-5-17.
 - **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, available online.
 - Jia Zhang; Yixuan Zhang; **Enhuan Dong**; Yan Zhang; Shaorui Ren; Zili Meng; Mingwei Xu; Xiaotian Li; Zongzhi Hou; Zhicheng Yang; Xiaoming Fu; Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX Annual Technical Conference (USENIX ATC, TH-CPL A, CCF A), Boston, MA, USA, 2023-7-10 to 2023-7-12.
 - Renjie Xie; Jiahao Cao; **Enhuan Dong**; Mingwei Xu; Kun Sun; Qi Li; Licheng Shen; Menghao Zhang; Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation, USENIX Security Symposium (USENIX Security, TH-CPL A, CCF A), Anaheim, CA, USA, 2023-8-9 to 2023-8-11.
@@ -88,8 +89,9 @@ My research interests include network security, network operations and network t
 * * *
 
 - **Conference TPC Member**
-  - [IEEE International Conference on Distributed Computing Systems (ICDCS), 2024](https://icdcs2024.icdcs.org/)
-  - [International Conference on Network of the Future (NoF), 2023](https://nof.dnac.org/2023/tpc/)
+  - IEEE International Conference on Distributed Computing Systems (ICDCS) [2024](https://icdcs2024.icdcs.org/)
+  - International Conference on Big Data Computing and Communications (BIGCOM) [2024](https://bigcom2024.com/)
+  - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/)
 
 - **Journal/Magazine Reviewer**
   - IEEE/ACM Transactions on Networking (TON)
@@ -97,14 +99,22 @@ My research interests include network security, network operations and network t
   - IEEE Journal on Selected Areas in Communications (JSAC)
   - IEEE Transactions on Network and Service Management (TNSM)
   - Elsevier Computer Communications (COMCOM)
-  - Elsevier Future Generation Computer Systems
+  - Journal of Network and Computer Applications (JNCA)
+  - Elsevier Future Generation Computer Systems (FGCS)
   - IEEE Network
-  - CCF Transactions on Networking (CTON)
+  - Journal of Systems Architecture (JSA)
+  - Physica A
   - IEEE Communications Letters
+  - CCF Transactions on Networking (CTON)
 
 - **Conference Reviewer**
-  - IEEE International Conference on Computer Communications (INFOCOM), 2018
-  - IEEE International Conference on Network Protocols (ICNP), 2017
+  - IEEE International Conference on Computer Communications (INFOCOM) 2018
+  - IEEE International Conference on Network Protocols (ICNP) 2017
+  - IEEE Global Communications Conference (Globecom) 2016, 2017, 2022
+  - IEEE International Conference on Computer Communications and Networks (ICCCN) 2017
+  - IEEE Symposium on Computers and Communications (ISCC) 2017, 2020
+  - IEEE International Conference on Network Softwarization (NetSoft) 2021
+  - International Conference on Network and Service Management (CNSM) 2021
 
 - **Institute Committee Member**
   - Technical Committee Member of Internet, China Computer Federation
