@@ -72,9 +72,10 @@ My research interests include network security, network operations and network t
 
 * * *
 
+- Future Network Leading Innovation and Technology Achievements: Al Based Operation System for Large Scale Cloud Network (4/7), Future Network Development Conference, 2024.
 - CCF Science and Technology Achievement (Technical Invention) Award, Second Prize: Key Technologies and Systems for Integrated Large-scale Cloud Network Operations with Digital Intelligence Integration (3/6), China Computer Federation, 2023.
 - Science and Technology (Technical Invention) Award of China Institute of Communications，First Prize: Key Technologies for Intelligent Operations of Large-scale Cloud Network Infrastructure (15/15), China Institute of Communications, 2022.
-- ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [Announcement Link](https://www.sigcomm.org/content/sigcomm-networking-systems-award).
+- ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [Announcement Link](https://www.sigcomm.org/awards/sigcomm-networking-systems-award).
 - Excellent Ph.D. Graduate in Department of CST, THU, 2019.
 - IEEE LCN Best Paper Candidates (1/4), IEEE LCN, 2017-10. [Announcement Link](https://www.ieeelcn.org/prior/LCN42/Program_technical.html#S1569545642).
 - China Scholarship Council (CSC) Scholarship, Joint Ph.D. Study, 2016.
@@ -87,13 +88,21 @@ My research interests include network security, network operations and network t
 
 * * *
 
-- **Editorial Services**
-  - Frontiers in Computer Science, [Research Topic on Design and Optimization of Distributed Computing/Storage Systems Driven by Novel Intelligent Networking Technologies](https://www.frontiersin.org/research-topics/63510/design-and-optimization-of-distributed-computingstorage-systems-driven-by-novel-intelligent-networking-technologies) (Topic Editors: Yong Wang, Mu Wang, **Enhuan Dong**, Qian He), 2024
+- **Institute Committee Member**
+  - Technical Committee Member of Internet, China Computer Federation
+  - Technical Committee Member of Cyberspace Mapping, Chinese Institute of Command and Control
+
+- **Conference TPC Track Chair**
+  - International Conference on Big Data Computing and Communications (BIGCOM) [2025](https://www.bigcom2025.com/)
 
 - **Conference TPC Member**
+  - IEEE International Conference on Communications (ICC) [2025](https://icc2025.ieee-icc.org/)
   - IEEE International Conference on Distributed Computing Systems (ICDCS) [2024](https://icdcs2024.icdcs.org/)
   - International Conference on Big Data Computing and Communications (BIGCOM) [2024](https://bigcom2024.com/)
-  - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/)
+  - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/2024/), [2025](https://nof.dnac.org/)
+
+- **Editorial Services**
+  - Frontiers in Computer Science, [Research Topic on Design and Optimization of Distributed Computing/Storage Systems Driven by Novel Intelligent Networking Technologies](https://www.frontiersin.org/research-topics/63510/design-and-optimization-of-distributed-computingstorage-systems-driven-by-novel-intelligent-networking-technologies) (Topic Editors: Yong Wang, Mu Wang, **Enhuan Dong**, Qian He), 2024
 
 - **Journal/Magazine Reviewer**
   - IEEE/ACM Transactions on Networking (TON)
@@ -106,8 +115,11 @@ My research interests include network security, network operations and network t
   - Elsevier Future Generation Computer Systems (FGCS)
   - Frontiers of Information Technology & Electronic Engineering (FITEE)
   - IEEE Network
+  - SCIENTIA SINICA Informationis
   - Journal of Systems Architecture (JSA)
   - Physica A
+  - Springer Cybersecurity
+  - IEEE Open Journal of the Communications Society
   - IEEE Communications Letters
   - CCF Transactions on Networking (CTON)
 
@@ -120,9 +132,7 @@ My research interests include network security, network operations and network t
   - IEEE International Conference on Network Softwarization (NetSoft) 2021
   - International Conference on Network and Service Management (CNSM) 2021
 
-- **Institute Committee Member**
-  - Technical Committee Member of Internet, China Computer Federation
-  - Technical Committee Member of Cyberspace Mapping, Chinese Institute of Command and Control
+
 
 <!-- # Teaching
 
