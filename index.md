@@ -11,7 +11,7 @@ layout: default
 I am an Assistant Research Professor at [Prof. Jiahai Yang's group](http://nmgroup.tsinghua.edu.cn/yjh/) in the Institute for Network Sciences and Cyberspace (INSC), Tsinghua University. I was born in Hebei, China and received my bachelor (2013) degree from Harbin Institute of Technology, Harbin, China, and my Ph.D. (2019) degree from Tsinghua University, Beijing, China (supervisor: Prof. Mingwei Xu). Prior to joining the INSC, I worked with Prof. Mingwei Xu as a postdoctoral researcher at the [Routing Group](http://routing.netlab.edu.cn/) in the Department of Computer Science & Technology, Tsinghua University until July 2021. I was a visiting Ph.D. student at the University of Göttingen (host: Prof. Xiaoming Fu) between 2016 to 2017.
 
 
-My research interests include network security, network operations and network transport.
+My research interests include network measurement, network security, network operations and network transport.
 
 **Email**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
@@ -56,6 +56,10 @@ My research interests include network security, network operations and network t
 
 * * *
 
+
+- Xin He; **Enhuan Dong**; Jiyuan Han; Zhiliang Wang; Hui Zhang; Liang Liu; Lianyi Sun; Supei Zhang; Pengfei Xue; Guanglei Song; Han Li; Xiaowen Quan; Jiahai Yang; ScannerGrouper: A Generalizable and Effective Scanning Organization Identification System Toward the Open World, ACM Conference on Computer and Communications Security (ACM CCS, TH-CPL A, CCF A), Taipei, Taiwan, China, 2025-10-13 to 2025-10-17.
+- **Enhuan Dong**; Jiahai Yang; Zhiliang Wang; Xin He; Jie Fang; Shenao Li; Supei Zhang; Zeyuan Guo; Hui Zhang; Zimu Li; Xiaoming Fu; Internet Scan Source Identification: A Survey, IEEE Network, 2025, online.
+- Shaorui Ren; Jia Zhang; **Enhuan Dong**; Mingwei Xu; Yixuan Zhang; Jiahao Cao; Jianping Wu; Undermining Delay-based QUIC Congestion Control: A Receiver-driven Attack via Crafted Host Delays, IEEE International Conference on Network Protocols (IEEE ICNP, TH-CPL A, CCF B), Seoul, South Korea, 2025-9-22 to 2025-9-25.
 - Xin He; **Enhuan Dong**; Jiahai Yang; Shize Zhang; Zhiliang Wang; Zejie Wang; Ye Yang; Jun Zhou; Xiaoqing Sun; Enge Song; Jianyuan Lu; Biao Lyu; Shunmin Zhu; CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks, IEEE Conference on Computer Communications (IEEE INFOCOM, TH-CPL A, CCF A), Vancouver, Canada, 2024-5-20 to 2024-5-24.
 - Jia Zhang; Haixuan Tong; **Enhuan Dong**; Xin Qian; Mingwei Xu; Xiaotian Li; Zili Meng; Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, The Web Conference (WWW, TH-CPL A, CCF A), Singapore, 2024-5-13 to 2024-5-17.
 - **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, 237, 110047.
@@ -75,7 +79,7 @@ My research interests include network security, network operations and network t
 - Future Network Leading Innovation and Technology Achievements: Al Based Operation System for Large Scale Cloud Network (4/7), Future Network Development Conference, 2024.
 - CCF Science and Technology Achievement (Technical Invention) Award, Second Prize: Key Technologies and Systems for Integrated Large-scale Cloud Network Operations with Digital Intelligence Integration (3/6), China Computer Federation, 2023.
 - Science and Technology (Technical Invention) Award of China Institute of Communications，First Prize: Key Technologies for Intelligent Operations of Large-scale Cloud Network Infrastructure (15/15), China Institute of Communications, 2022.
-- ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [Announcement Link](https://www.sigcomm.org/awards/sigcomm-networking-systems-award).
+- SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [Announcement Link](https://www.sigcomm.org/awards/sigcomm-networking-systems-award).
 - Excellent Ph.D. Graduate in Department of CST, THU, 2019.
 - IEEE LCN Best Paper Candidates (1/4), IEEE LCN, 2017-10. [Announcement Link](https://www.ieeelcn.org/prior/LCN42/Program_technical.html#S1569545642).
 - China Scholarship Council (CSC) Scholarship, Joint Ph.D. Study, 2016.
@@ -103,6 +107,7 @@ My research interests include network security, network operations and network t
 
 - **Editorial Services**
   - Frontiers in Computer Science, [Research Topic on Design and Optimization of Distributed Computing/Storage Systems Driven by Novel Intelligent Networking Technologies](https://www.frontiersin.org/research-topics/63510/design-and-optimization-of-distributed-computingstorage-systems-driven-by-novel-intelligent-networking-technologies) (Topic Editors: Yong Wang, Mu Wang, **Enhuan Dong**, Qian He), 2024
+  - Mathematics, [Special Issue on Mathematical Foundations and Innovations in Networked Cloud-Edge Systems: Security, Storage and Optimization](https://www.mdpi.com/journal/mathematics/special_issues/Math_Found_Innov_Netw_Cloud_Edge_Syst_Secur_Storage_Optim) (Guest Editors: Yong Wang, Mu Wang, **Enhuan Dong**), 2026
 
 - **Journal/Magazine Reviewer**
   - IEEE/ACM Transactions on Networking (TON)
@@ -126,6 +131,7 @@ My research interests include network security, network operations and network t
 - **Conference Reviewer**
   - IEEE International Conference on Computer Communications (INFOCOM) 2018
   - IEEE International Conference on Network Protocols (ICNP) 2017
+  - ACM Multimedia (MM) 2025
   - IEEE Global Communications Conference (Globecom) 2016, 2017, 2022
   - IEEE International Conference on Computer Communications and Networks (ICCCN) 2017
   - IEEE Symposium on Computers and Communications (ISCC) 2017, 2020
