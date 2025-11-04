@@ -59,7 +59,7 @@ My research interests include network measurement, network security, network ope
 
 - Xin He; **Enhuan Dong**; Jiyuan Han; Zhiliang Wang; Hui Zhang; Liang Liu; Lianyi Sun; Supei Zhang; Pengfei Xue; Guanglei Song; Han Li; Xiaowen Quan; Jiahai Yang; ScannerGrouper: A Generalizable and Effective Scanning Organization Identification System Toward the Open World, ACM Conference on Computer and Communications Security (ACM CCS, TH-CPL A, CCF A), Taipei, Taiwan, China, 2025-10-13 to 2025-10-17.
 - Songyun Wu; Xiaoqing Sun; **Enhuan Dong**; Zhiliang Wang; Chen Zhao; Jiahai Yang; Alert2vec: Eliminating Alert Fatigue by Embedding Security Alerts through Subgraph Learning, IEEE Transactions on Dependable and Secure Computing (IEEE TDSC, TH-CPL A, CCF A), Online.
-- **Enhuan Dong**; Jiahai Yang; Zhiliang Wang; Xin He; Jie Fang; Shenao Li; Supei Zhang; Zeyuan Guo; Hui Zhang; Zimu Li; Xiaoming Fu; Internet Scan Source Identification: A Survey, IEEE Network, 2025, online.
+- **Enhuan Dong**; Jiahai Yang; Zhiliang Wang; Xin He; Jie Fang; Shenao Li; Supei Zhang; Zeyuan Guo; Hui Zhang; Zimu Li; Xiaoming Fu; Internet Scan Source Identification: A Survey, IEEE Network, 2025, Online.
 - Shaorui Ren; Jia Zhang; **Enhuan Dong**; Mingwei Xu; Yixuan Zhang; Jiahao Cao; Jianping Wu; Undermining Delay-based QUIC Congestion Control: A Receiver-driven Attack via Crafted Host Delays, IEEE International Conference on Network Protocols (IEEE ICNP, TH-CPL A, CCF B), Seoul, South Korea, 2025-9-22 to 2025-9-25.
 - Xin He; **Enhuan Dong**; Jiahai Yang; Shize Zhang; Zhiliang Wang; Zejie Wang; Ye Yang; Jun Zhou; Xiaoqing Sun; Enge Song; Jianyuan Lu; Biao Lyu; Shunmin Zhu; CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks, IEEE Conference on Computer Communications (IEEE INFOCOM, TH-CPL A, CCF A), Vancouver, Canada, 2024-5-20 to 2024-5-24.
 - Jia Zhang; Haixuan Tong; **Enhuan Dong**; Xin Qian; Mingwei Xu; Xiaotian Li; Zili Meng; Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, The Web Conference (WWW, TH-CPL A, CCF A), Singapore, 2024-5-13 to 2024-5-17.
@@ -101,7 +101,7 @@ My research interests include network measurement, network security, network ope
   - International Conference on Big Data Computing and Communications (BIGCOM) [2025](https://www.bigcom2025.com/)
 
 - **Conference TPC Member**
-  - IEEE International Conference on Communications (ICC) [2025](https://icc2025.ieee-icc.org/)
+  - IEEE International Conference on Communications (ICC) [2025](https://icc2025.ieee-icc.org/), [2026](https://icc2026.ieee-icc.org/)
   - IEEE International Conference on Distributed Computing Systems (ICDCS) [2024](https://icdcs2024.icdcs.org/)
   - International Conference on Big Data Computing and Communications (BIGCOM) [2024](https://bigcom2024.com/)
   - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/2024/), [2025](https://nof.dnac.org/)
@@ -139,7 +139,11 @@ My research interests include network measurement, network security, network ope
   - IEEE International Conference on Network Softwarization (NetSoft) 2021
   - International Conference on Network and Service Management (CNSM) 2021
 
+# Systems & Software
 
+* * *
+
+- ScannerGrouper — Long-Term Operation [Link](https://tsinghuadong.github.io/scannergrouper-long-term-operation/)
 
 <!-- # Teaching
 
