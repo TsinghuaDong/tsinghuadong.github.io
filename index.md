@@ -143,7 +143,7 @@ My research interests include network measurement, network security, network ope
 
 * * *
 
-- ScannerGrouper — Long-Term Operation. [Link](https://tsinghuadong.github.io/scannergrouper-long-term-operation/).
+- [ScannerGrouper](https://tsinghuadong.github.io/scannergrouper-long-term-operation/) — Long-Term Operation.
 
 <!-- # Teaching
 
